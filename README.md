@@ -15,4 +15,5 @@ Planned features:
 
  Credits:
  Arrows are done by <a href="https://www.flaticon.com/free-icons/next" title="next icons">Roundicons</a>
+ 
  Tutorial that helped me by <a href="https://www.youtube.com/watch?v=6E5nImQJC-Y&t=416s">CodingIdeas</a>
